@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Eyu-Gen</h1>
-<h3 align="center">Yugin Paudel's GitHub Adventure</h3>
+<h1 align="left">Hi 👋, I'm Eyu-Gen</h1>
+<h3 align="left">Yugin Paudel's GitHub Adventure</h3>
 
-<img align="center" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="">
+<img align="center" width=400px src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyu-gen&label=Profile%20views&color=0e75b6&style=flat" alt="eyu-gen" /> </p>
 
@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyu-gen&show_icons=true&locale=en&layout=compact" alt="eyu-gen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyu-gen&show_icons=true&locale=en" alt="eyu-gen" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eyu-gen&show_icons=true&locale=en" alt="eyu-gen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyu-gen&" alt="eyu-gen" /></p>
+
