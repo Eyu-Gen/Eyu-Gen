@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Eyu-Gen</h1>
 <h3 align="left">Yugin Paudel's GitHub Adventure</h3>
 
-<img align="center" width=400px src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyu-gen&label=Profile%20views&color=0e75b6&style=flat" alt="eyu-gen" /> </p>
 
