@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/@yugin-paudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@yugin-paudel" height="30" width="40" /></a>
 <a href="https://fb.com/@eyugen10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@eyugen10" height="30" width="40" /></a>
-<a href="https://instagram.com/@u.can.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@u.can.0_0" height="30" width="40" /></a>
+<a href="https://instagram.com/@u.can.0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@u.can.0_0" height="30" width="40" /></a>
 <a href="https://medium.com/@yuginpaudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yuginpaudel" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/thebigdreamers30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thebigdreamers30" height="30" width="40" /></a>
 </p>
